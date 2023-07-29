@@ -1,4 +1,4 @@
-                                                                                        # HOSPITAL MANAGEMENT SYSTEM
+# HOSPITAL MANAGEMENT SYSTEM
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 1. Introduction
@@ -45,24 +45,27 @@ The project consists of three key modules:
     - Functions to print the receipt of the bill.
 
 
-2. Tools and Technologies used
-Following are the tools used in the creation of our project:
- Language used: C++
- IDEs used: Dev C++, Visual Studio Code
- Header files:
- #include <iostream>
- #include <fstream>
- #include <cstdlib>
- #include <time.h>
- #include <iomanip>
- #include <string.h>
- #include <conio.h>
- #include <windows.h>
- #include <stdlib.h>
- #include<sstream>
- #include”Hospital.h”
-3. Class Diagram
-4. Link to Source
-Source Link
-5. Future Work
+# 2. Tools and Technologies used
+  Following are the tools used in the creation of our project:
+    - Language used: C++
+    - IDEs used: Dev C++, Visual Studio Code
+    - Header files:
+      - #include <iostream>
+      - #include <fstream>
+      - #include <cstdlib>
+      - #include <time.h>
+      - #include <iomanip>
+      - #include <string.h>
+      - #include <conio.h>
+      - #include <windows.h>
+      - #include <stdlib.h>
+      - #include<sstream>
+      - #include”Hospital.h”
+
+
+# 3. Class Diagram
+
+![image](https://github.com/Hassanj34/Hospital-Management-System/assets/96651621/886272de-92b4-411a-9a15-662451d37109)
+
+# 5. Future Work
 Despite the numerous amounts of bug fixes and code optimization that we did, we could’ve still improved the program further in various places. There are several other features that could’ve been implemented sue time and resource constraints it was difficult to add multiple features such as a proper machine learning system for patient diagnosis and lab reports.
