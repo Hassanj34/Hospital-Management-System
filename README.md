@@ -44,21 +44,21 @@ The project consists of three key modules:
    * Functions to print the receipt of the bill.
 
 ## Tools and Technologies used
-   Following are the tools used in the creation of our project:
-    * Language used: C++
-    * IDEs used: Dev C++, Visual Studio Code
-    *  Header files:
-      - #include <iostream>
-      - #include <fstream>
-      - #include <cstdlib>
-      - #include <time.h>
-      - #include <iomanip>
-      - #include <string.h>
-      - #include <conio.h>
-      - #include <windows.h>
-      - #include <stdlib.h>
-      - #include<sstream>
-      - #include”Hospital.h”
+Following are the tools used in the creation of our project:
+* Language used: C++
+* IDEs used: Dev C++, Visual Studio Code
+*  Header files:
+  - #include <iostream>
+  - #include <fstream>
+  - #include <cstdlib>
+  - #include <time.h>
+  - #include <iomanip>
+  - #include <string.h>
+  - #include <conio.h>
+  - #include <windows.h>
+  - #include <stdlib.h>
+  - #include<sstream>
+  - #include”Hospital.h”
 
 
 ## Class Diagram
