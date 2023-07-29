@@ -1,5 +1,5 @@
-# [HOSPITAL MANAGEMENT SYSTEM]
-_____________________________________________________________________________________
+                                                                                        # HOSPITAL MANAGEMENT SYSTEM
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 1. Introduction
 This project would help to simplify the appointment process with doctors in the hospital, along with assistance in tracking data and transactions. The program provides user interfaces for patients, doctors and admin to book appointments and will provide diagnostics to patients, store their medical records and background history in safe locations, and generate bills and provide an account development feature.
