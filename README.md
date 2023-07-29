@@ -38,18 +38,18 @@ The project consists of three key modules:
   
   # Pharmacy Module:
     - Displays a menu to:
-      i. Select available medicines from the Pharmacy.
-      ii. Print receipt for the order placed.
-      iii. Replace the previous order with a new order.
+        i. Select available medicines from the Pharmacy.
+        ii. Print receipt for the order placed.
+        iii. Replace the previous order with a new order.
     - Functions to calculate billing for the order placed.
     - Functions to print the receipt of the bill.
 
 
 # 2. Tools and Technologies used
-  Following are the tools used in the creation of our project:
+    Following are the tools used in the creation of our project:
     - Language used: C++
     - IDEs used: Dev C++, Visual Studio Code
-    - Header files:
+    -  Header files:
       - #include <iostream>
       - #include <fstream>
       - #include <cstdlib>
