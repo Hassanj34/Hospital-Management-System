@@ -1,0 +1,3 @@
+| 	Drugs	|	Price	|	Quantity	|
+| 	Insulin	|	$3.49	|	0		|
+| 	Insulin	|	$3.49	|	0		|
